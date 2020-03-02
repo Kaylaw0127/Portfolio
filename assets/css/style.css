@@ -38,6 +38,10 @@ body, html {
     background-repeat: x y;
   }
 
+  #resumeBtn {
+      color: #ffffff;
+  }
+
   /* portfolio */
   .thumbnail {
     position: relative;
